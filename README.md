@@ -28,7 +28,9 @@ img source: https://www.geeksforgeeks.org/artificial-neural-networks-and-its-app
 
 ## Result and Conclusions
 
-
+- Developed a customer churn prediction model, using Python and machine learning, and implement a 3 layered Artificial neural network.
+- Conducted thorough EDA and data preprocessing.
+- Successfully achieved an accuracy of ~86%.
 
 ## Customer retention strategies
 
